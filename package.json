@@ -1,0 +1,17 @@
+{
+	"name": "@atulin/humanizer",
+	"version": "0.1.0",
+	"description": "",
+	"main": "bin/humanizer.ts",
+	"types": "bin/humanizer.d.ts",
+	"files": ["bin"],
+	"scripts": {
+		"prepublish": "tsc"
+	},
+	"author": "Atulin",
+	"license": "MIT",
+	"keywords": ["humanize", "human", "humanizer", "utility"],
+	"devDependencies": {
+		"typescript": "^5.4.5"
+	}
+}
